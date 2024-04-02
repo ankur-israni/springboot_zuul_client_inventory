@@ -33,12 +33,4 @@ management:
   endpoint:
     health:
       show-details: "ALWAYS"
-#---
-#spring:
- # application:
-  #  name: config-client-inventory
-#---
-#spring:
-  #cloud:
-   # config:
-    #  uri: http://localhost:8888/
+
